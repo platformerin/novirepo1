@@ -6,3 +6,4 @@ sfs
 fsd
 fsdsf
 sdff
+Promjena od nekoga tko dodaje zadnju recenicu jer fali u dokumentu.
