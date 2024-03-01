@@ -6,4 +6,5 @@ sfs
 fsd ajde medo van nisi reko dobar dan.
 fsdsf
 sdff
-Promjena od nekoga tko dodaje zadnju recenicu jer fali u dokumentu. Zegeo.
+Promjena od nekoga tko dodaje zadnju recenicu jer fali u dokumentu. I to je to.  Zegeo.
+
