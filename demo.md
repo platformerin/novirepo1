@@ -1,6 +1,6 @@
 Moja promjena na lokalnom dokumentu na mom lokalnom kompu.
 dfdf
-sdf
+sdf ide medo u ducan
 sdfd
 sfs
 fsd
