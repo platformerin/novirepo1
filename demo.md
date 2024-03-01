@@ -1,4 +1,4 @@
-sxsddkdäf
+Moja promjena na lokalnom dokumentu na mom lokalnom kompu.
 dfdf
 sdf
 sdfd
