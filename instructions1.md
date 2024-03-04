@@ -4,4 +4,4 @@ Place in your mouth.
 
 Jos radim na ovom tekstu.
 
-The toothbrush can speak seven different languages.
+The toothbrush can speak six different languages.
